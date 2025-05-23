@@ -1,5 +1,5 @@
 .{
-    .name = "network",
+    .name = .network,
     .version = "0.1.0",
     .paths = .{
         "build.zig",
@@ -8,4 +8,5 @@
         "network.zig",
         "testsuite.zig",
     },
+    .fingerprint = 0x608487bc3b5518e7,
 }
